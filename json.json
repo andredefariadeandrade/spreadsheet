@@ -1,0 +1,4231 @@
+{
+  "kind": "admin#directory#users",
+  "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/2KRoNACMKNRhyKWvflOuppjK5ho\"",
+  "users": [
+    {
+      "kind": "admin#directory#user",
+      "id": "110236549030605189533",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/dp4AKT6N8c2XBqqULLd9_Ub1Mdo\"",
+      "primaryEmail": "247monitor@devoteam.com",
+      "name": {
+        "givenName": "ES.GEN",
+        "familyName": "247monitor",
+        "fullName": "ES.GEN 247monitor"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-08-04T18:34:42.000Z",
+      "creationTime": "2020-12-18T13:26:29.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "247monitor@devoteam.com",
+          "primary": true
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen/Drive + Chat",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104880113428586226583",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/0ZtZcsuTaZ4JR63U1XEgtCZY1kk\"",
+      "primaryEmail": "_de-servicedesk@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_de-servicedesk",
+        "fullName": "GEN _de-servicedesk"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T16:22:07.000Z",
+      "creationTime": "2013-11-20T14:41:20.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_de-servicedesk@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "de-servicedesk@devoteam.com"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "de-servicedesk@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen/Drive + Chat",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "recoveryPhone": "+4916097273291"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111544696973723426006",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/ggyqi_iEk7uOStKaw_SAsZ18k88\"",
+      "primaryEmail": "_de.ds.exinfo@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_DE.DS.ExInfo",
+        "fullName": "GEN _DE.DS.ExInfo"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2017-11-02T15:32:56.000Z",
+      "creationTime": "2013-11-20T14:41:35.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_de.ds.exinfo@devoteam.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Danet Germany",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "102212884406629333605",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/N--xBPjSv4LqH7nxK_LShCjwBjA\"",
+      "primaryEmail": "_de.ds.smd.support@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_DE.DS.SMD.SUPPORT",
+        "fullName": "GEN _DE.DS.SMD.SUPPORT"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-02-09T14:24:54.000Z",
+      "creationTime": "2013-11-20T14:41:54.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_de.ds.smd.support@devoteam.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106479048395516646030",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/XTB8qZSJMtPYcgxQ-hPqWqI0DTI\"",
+      "primaryEmail": "_de.ds.telekom-account@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_DE.DS.Telekom-Account",
+        "fullName": "GEN _DE.DS.Telekom-Account"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2015-02-04T08:54:13.000Z",
+      "creationTime": "2013-11-20T14:41:56.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_de.ds.telekom-account@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "dedstelekomaccou@devoteam.com"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Germany",
+          "primary": true,
+          "customType": "work",
+          "department": "Devoteam Danet"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "dedstelekomaccou@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen/Drive + Chat",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "102965427163902585016",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/cgEzVtyeUOEJdUYid8qGgZKJppk\"",
+      "primaryEmail": "_de.ww.rzb-in@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "DE.GEN.WW.RZB-IN",
+        "fullName": "GEN DE.GEN.WW.RZB-IN"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-04-21T10:52:15.000Z",
+      "creationTime": "2013-11-20T14:41:05.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_de.ww.rzb-in@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "wwrzbin@devoteam.com"
+        },
+        {
+          "address": "de.ww.rzb-in@devoteam.com"
+        },
+        {
+          "address": "de-hostmaster@devoteam.com"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Germany",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "wwrzbin@devoteam.com",
+        "de.ww.rzb-in@devoteam.com",
+        "de-hostmaster@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109493897829064531683",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/KHyZAVV-LQ0-pJE2EpXb91Ajggk\"",
+      "primaryEmail": "_ma-paye-maroc@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_MA-paye-maroc",
+        "fullName": "GEN _MA-paye-maroc"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2018-04-24T14:42:51.000Z",
+      "creationTime": "2013-11-12T09:28:15.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_ma-paye-maroc@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "mapayemaroc@devoteam.com"
+        },
+        {
+          "address": "paie.maroc@devoteam.com"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Consulting Maroc",
+          "primary": true,
+          "customType": "work",
+          "department": "Devoteam Maroc"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "mapayemaroc@devoteam.com",
+        "paie.maroc@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112202005939023274582",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/y7Pq7cR2djWLgoTSYInr_YHUw2s\"",
+      "primaryEmail": "_me-payroll@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "_ME-Payroll",
+        "fullName": "GEN _ME-Payroll"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T17:27:04.000Z",
+      "creationTime": "2013-12-02T11:21:40.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_me-payroll@devoteam.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam ME",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107583517037026084784",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/GRPMgtCmbxXWlawB9dq6ShNEZyE\"",
+      "primaryEmail": "_me-support@devoteam.com",
+      "name": {
+        "givenName": "GEN",
+        "familyName": "Devoteam ME Support Services Center",
+        "fullName": "GEN Devoteam ME Support Services Center"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-04-18T11:23:28.000Z",
+      "creationTime": "2013-12-02T11:21:10.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "_me-support@devoteam.com",
+          "primary": true
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Germany",
+          "country": "Germany",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam ME",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCLCPwKCOkoSfaSILdmNhcmRfcGhvdG8qKDUyY2I4N2IzMTAxOGMyZmU4NDU1MDEzNjE1OWMzYjEwZjkwMmQ5ZjQwAeeBdeelzbVk7t-UvJGC1fK_FWfQ",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/iooWSOUK9uTJbC307TDX8S6OI6E\"",
+      "recoveryEmail": "mohanad.younis@devoteam.com"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "108722739743200598317",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/wR7_wESNKl7sAtSI-eVto5dru84\"",
+      "primaryEmail": "aad_support@devoteam.com",
+      "name": {
+        "givenName": "GEN_AAD",
+        "familyName": "SUPPORT",
+        "fullName": "GEN_AAD SUPPORT"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "1970-01-01T00:00:00.000Z",
+      "creationTime": "2022-06-15T13:51:28.000Z",
+      "agreedToTerms": false,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aad_support@devoteam.com",
+          "primary": true
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Bal_Gen/Drive + Chat",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "108366048396887920140",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/IxM20s7iqWvTUVa-oi8Fz7nlnv8\"",
+      "primaryEmail": "aala.eddine.hkimi@devoteam.com",
+      "name": {
+        "givenName": "Aala Eddine",
+        "familyName": "HKIMI",
+        "fullName": "Aala Eddine HKIMI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T13:34:33.000Z",
+      "creationTime": "2022-05-23T16:07:16.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aala.eddine.hkimi@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Nicolas.Agussol@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Consultant Servicenow H/F",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCIyc7LGRlouNdCILdmNhcmRfcGhvdG8qKGRhYzBhZThmMzZmYWE0MDhiM2FlZDk3NDJmMmJiMzg0YjExNTczZjIwAUkF8VYgyf32Wz6Ih5V_qTarfi6J",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/L6Mo5TDG5tUM0O5IL76rgrr-36A\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "205987",
+          "locationID": "Toulouse - Claude-Marie Perroud",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "110444",
+          "jobID": "Consultant Servicenow H/F",
+          "externalIdentifierNumber": "205265",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RSO8P - Technology Consulting - Régions - Agence Toulouse 08 COE SNOW - Production",
+          "pricingProfileID": "Solution Engineer",
+          "actualTerminationDate": "2022-09-30",
+          "workingCountryID": "France",
+          "Partner": "ServiceNow",
+          "username": "ahkimi",
+          "creationDate": "2022-05-23",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "COE - Snow 05-SO_FR_DTC_COE_14",
+          "startDate": "2022-10-17"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112955179226353476710",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/6p3QVZBub3lWOyHa3-QnHJ1lTn0\"",
+      "primaryEmail": "aamer.agouram@devoteam.com",
+      "name": {
+        "givenName": "Aamer",
+        "familyName": "Agouram",
+        "fullName": "Aamer Agouram"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T06:57:14.000Z",
+      "creationTime": "2021-04-16T08:04:16.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aamer.agouram@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Julien.El.Faiz@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "TECHNOLOGIES & OPERATIONS",
+          "title": "No E4V",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "fr",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECObIxuLe24LlswEiC3ZjYXJkX3Bob3RvKihjNTU1ZGUyYTJmMDQ1YWZjYmRiODAxOWYzYzMyNzU3YWM2NzZmN2U0MAFv_UprQ3f6kYC7VVkMWi7MfLy73g",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/AQKDsbKjJeTqltLBriP6QFKlEb0\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "TECHNOLOGIES & OPERATIONS",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "121391",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "111365",
+          "jobID": "No E4V",
+          "externalIdentifierNumber": "201233",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "TO04P - Innovative Tech - TOP - Production TO04P",
+          "pricingProfileID": "No E4V",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aagouram",
+          "creationDate": "2021-04-16",
+          "entityOpID": "FR - Innovative Tech (Top Team)",
+          "departementID": "Autres Secteurs-SO_1139",
+          "startDate": "2021-04-26"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109501883401602358428",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/aurvWb2xp_drpKkZTqbK5ypAPS0\"",
+      "primaryEmail": "aarao.teixeira@devoteam.com",
+      "name": {
+        "givenName": "Aarão",
+        "familyName": "TEIXEIRA",
+        "fullName": "Aarão TEIXEIRA"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T16:18:03.000Z",
+      "creationTime": "2021-02-23T19:00:56.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aarao.teixeira@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "aarao.teixeira@outfit.pt"
+        },
+        {
+          "address": "aaraoteixeira@boldint.com"
+        },
+        {
+          "address": "aaraoteixeira@diamondbybold.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "joana.baiao@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Portugal",
+          "country": "Portugal",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "BOLDINT, S.A.",
+          "title": "Developer",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "aarao.teixeira@outfit.pt",
+        "aaraoteixeira@boldint.com",
+        "aaraoteixeira@diamondbybold.com"
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "BOLDINT, S.A.",
+          "sectorAgencyID": "Nearshore",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "129153",
+          "locationID": "Lisbon - D. Joao II 43",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "513053",
+          "managerPersonNumber": "126088",
+          "jobID": "Developer",
+          "externalIdentifierNumber": "124684",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "PT - Devoteam Portugal",
+          "pricingProfileID": "Developer",
+          "workingCountryID": "Portugal",
+          "Partner": "Microsoft",
+          "lastUpdateDate": "2022-03-09",
+          "username": "ateixeira",
+          "creationDate": "2022-05-04",
+          "entityOpID": "PT - DVT Portugal",
+          "departementID": "ITI_LEGO&IMP&FERRI&VAU&ENGIE_011-SO_PT_DVT_37",
+          "DateOfBirth": "1988-02-19",
+          "startDate": "2021-03-01"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116941165006428404644",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/oI2AaK9hdWE-FoaPQUAwlLtDU08\"",
+      "primaryEmail": "aaron.alarcon@devoteam.com",
+      "name": {
+        "givenName": "Aaron",
+        "familyName": "Alarcon",
+        "fullName": "Aaron Alarcon"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-17T07:03:58.000Z",
+      "creationTime": "2022-10-18T12:00:58.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aaron.alarcon@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "JoseMiguel.Munain@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Spain",
+          "country": "Spain",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DRAGO SOLUTIONS S.A.U.",
+          "title": "Solution Engineer - Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECKT3xYuL-saN6wEiC3ZjYXJkX3Bob3RvKigwZjAyZWQxYTQ4YWM5NjM2NGQwNGYxMmEyNzIzY2Y5ZDNlOTQyYTBiMAGB-O7ovCaZiGJo5a1xFxhHRt26AA",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/UEHSEz235oBaFHOfW88pn8zS2dg\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DRAGO SOLUTIONS S.A.U.",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "110958",
+          "locationID": "Madrid - Cronos",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "100952",
+          "jobID": "Solution Engineer - Consultant",
+          "externalIdentifierNumber": "207898",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "ES - DVT SPAIN - Default Cost Center",
+          "pricingProfileID": "Solution Engineer",
+          "workingCountryID": "Spain",
+          "Partner": "Salesforce",
+          "username": "aalarcon",
+          "creationDate": "2022-10-18",
+          "entityOpID": "ES - DVT Spain",
+          "departementID": "Salesforce-SO_ES_N10",
+          "startDate": "2022-11-08"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112741823603941254111",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/jqmjMIhUZv0vqhZu988Tmi_DXfY\"",
+      "primaryEmail": "aashish.taneja@devoteam.com",
+      "name": {
+        "givenName": "Aashish",
+        "familyName": "TANEJA",
+        "fullName": "Aashish TANEJA"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-23T07:58:39.000Z",
+      "creationTime": "2022-08-24T14:04:49.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aashish.taneja@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "aashish.taneja@devoteam.nl"
+        }
+      ],
+      "relations": [
+        {
+          "value": "eelco.gelton@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Netherlands",
+          "country": "Netherlands",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM NETHERLANDS",
+          "title": "Data Engineer - Senior consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "aashish.taneja@devoteam.nl"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM NETHERLANDS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "204928",
+          "locationID": "The Hague - Prinses Catharina Amaliastraat",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "119716",
+          "jobID": "Data Engineer - Senior consultant",
+          "externalIdentifierNumber": "206952",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "NL - Default Cost Center",
+          "pricingProfileID": "Data Engineer",
+          "workingCountryID": "Netherlands",
+          "Partner": "Salesforce",
+          "username": "ataneja",
+          "creationDate": "2022-08-24",
+          "entityOpID": "NL - DVT Netherlands",
+          "departementID": "Integration-SO_2887",
+          "startDate": "2022-11-01"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113284912217835385937",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/FetSLHxA87fOOo7Ea1K0_VFi41A\"",
+      "primaryEmail": "aasimudin.mohammed@devoteam.com",
+      "name": {
+        "givenName": "Aasimudin Khan",
+        "familyName": "Hashmi Mohammed",
+        "fullName": "Aasimudin Khan Hashmi Mohammed"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-20T12:20:53.000Z",
+      "creationTime": "2022-08-31T12:09:05.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aasimudin.mohammed@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "khan.hashmi@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "waleed.alabbas@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Saudi Arabia",
+          "country": "Saudi Arabia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAUDI ARABIA",
+          "title": "Data Governance Consultant - Senior consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "khan.hashmi@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECNHozILpqN-uuAEiC3ZjYXJkX3Bob3RvKig1ZTVkMGIwYTNiMzMwMmIzNGFiZTkzY2I3ZGVlYzhlZThjZTFmNWRkMAF7vBm_xNDBaVneV-5fhF2klJdp7w",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/y73S7SqW_JWL2esGneMVaJzlHKs\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAUDI ARABIA",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "124365",
+          "locationID": "Riyadh",
+          "employeeTypeLabel": "Fixed-term contract (Fixed Term)",
+          "managerPersonNumber": "203410",
+          "jobID": "Data Governance Consultant - Senior consultant",
+          "externalIdentifierNumber": "207068",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEA - Default Cost Center",
+          "pricingProfileID": "Data Governance Consultant",
+          "actualTerminationDate": "2023-09-03",
+          "workingCountryID": "Saudi Arabia",
+          "Partner": "Microsoft",
+          "username": "khashmi",
+          "creationDate": "2022-08-31",
+          "entityOpID": "AE - DVT Middle East",
+          "departementID": "Data & Integration - 04-SO_2351",
+          "startDate": "2022-09-04"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106999134524802155278",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/WFQRWaaxB9JzPfl4B1MGTYUxnfE\"",
+      "primaryEmail": "aat@cloudeon.com",
+      "name": {
+        "givenName": "Augustas",
+        "familyName": "Antanaitis",
+        "fullName": "Augustas Antanaitis"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-23T09:03:44.000Z",
+      "creationTime": "2021-11-22T09:32:14.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "aat@cloudeon.com",
+          "primary": true
+        },
+        {
+          "address": "augustas.antanaitis@cloudeon.com"
+        },
+        {
+          "address": "augustas.antanaitis@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "tle@cloudeon.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Lithuania",
+          "country": "Lithuania",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "CLOUDEON LITHUANIA",
+          "title": "Cloud Operations Engineer",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+37062876310",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "augustas.antanaitis@cloudeon.com",
+        "augustas.antanaitis@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service/Cloudeon",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": false,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "CLOUDEON LITHUANIA",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "202894",
+          "locationID": "Vilnius - Boksto",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "202854",
+          "jobID": "Cloud Operations Engineer",
+          "externalIdentifierNumber": "202863",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "Cloudeon - CC",
+          "pricingProfileID": "No E4V",
+          "workingCountryID": "Lithuania",
+          "Partner": "Partner agnostic",
+          "username": "aantanait",
+          "creationDate": "2021-11-19",
+          "entityOpID": "Cloudeon",
+          "departementID": "Cloud Operation-SO_CLOUDEON_10",
+          "startDate": "2021-06-14"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113192314829726932917",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/s-ZZDsSsboUUokf1vVL86bAI-Fg\"",
+      "primaryEmail": "abbas.ali.husaini.ext@devoteam.com",
+      "name": {
+        "givenName": "Abbas Ali",
+        "familyName": "Husaini",
+        "fullName": "Abbas Ali Husaini"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-20T08:36:45.000Z",
+      "creationTime": "2022-03-16T20:00:49.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abbas.ali.husaini.ext@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Nathalie.Bachour@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "No E4V",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service/1-Darktrace POC",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "109274",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "",
+          "managerPersonNumber": "102646",
+          "jobID": "No E4V",
+          "externalIdentifierNumber": "204606",
+          "personTypeID": "C",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "CORIT - Corporate - Dept IT",
+          "pricingProfileID": "No E4V",
+          "actualTerminationDate": "2023-06-30",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "ahusaini",
+          "creationDate": "2022-03-16",
+          "entityOpID": "DVT Corporate",
+          "departementID": "Finance IS - External Collaborators-SO_2355",
+          "startDate": "2022-03-11"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109477182291579157766",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/yrc3lfPZmqZyjx7YYWuatMpvlYc\"",
+      "primaryEmail": "abbes.taabouri@devoteam.com",
+      "name": {
+        "givenName": "Abbes",
+        "familyName": "Taabouri",
+        "fullName": "Abbes Taabouri"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-20T15:37:54.000Z",
+      "creationTime": "2022-02-07T15:01:23.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abbes.taabouri@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "syrine.daoud@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Tunisia",
+          "country": "Tunisia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Tunisia",
+          "title": "Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": " ",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "Devoteam Tunisia",
+          "sectorAgencyID": "Local Consultant",
+          "locationID": "Tunis",
+          "personNumber": "515593",
+          "managerPersonNumber": "509847",
+          "jobID": "Consultant",
+          "externalIdentifierNumber": "128893",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "Integration",
+          "workingCountryID": "Tunisia",
+          "lastUpdateDate": "2022-06-14",
+          "username": "ataabouri",
+          "creationDate": "2022-02-07",
+          "entityOpID": "TN - DVT Tunisia",
+          "departementID": "Operations",
+          "DateOfBirth": "1997-01-20",
+          "startDate": "2022-02-07"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112722466474177621373",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/KTOkRhye0XjYr5deVpwGaBCEghs\"",
+      "primaryEmail": "abdalhafeth.alaraj@devoteam.com",
+      "name": {
+        "givenName": "Abd Alhafeth",
+        "familyName": "Alaraj",
+        "fullName": "Abd Alhafeth Alaraj"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T13:05:12.000Z",
+      "creationTime": "2022-11-01T10:02:20.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdalhafeth.alaraj@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abd.alhafeth.alaraj@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "tariq.abudayyeh@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Saudi Arabia",
+          "country": "Saudi Arabia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAUDI ARABIA",
+          "title": "Senior Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abd.alhafeth.alaraj@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECP3aseGg-9HHsAEiC3ZjYXJkX3Bob3RvKig1YjYyMzdhYWZhMmIwNDA2NGMxNzBkMDBkNDA5MWUwNTVjYTU0MDRlMAG2pnfQn4TjN8qqYNmUaJCdbwUtkw",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/HDIPBf6lFYF63fIoAKZV9TZGJNo\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAUDI ARABIA",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "124365",
+          "locationID": "Riyadh",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "117213",
+          "jobID": "Senior Consultant",
+          "externalIdentifierNumber": "208061",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEA - Default Cost Center",
+          "pricingProfileID": "Strategy Consultant",
+          "workingCountryID": "Saudi Arabia",
+          "Partner": "Partner agnostic",
+          "username": "aalaraj",
+          "creationDate": "2022-11-01",
+          "entityOpID": "AE - DVT Middle East",
+          "departementID": "Strategy & Transformation - 01-SO_2345",
+          "startDate": "2022-11-06"
+        }
+      },
+      "recoveryEmail": "3bood1989@gmail.com"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109154720196423275025",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/PRO6Wucq8ZsylO8ZBHj2JG4Y0kg\"",
+      "primaryEmail": "abdallah.ajlani@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "AJLANI",
+        "fullName": "Abdallah AJLANI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-19T11:58:20.000Z",
+      "creationTime": "2018-11-19T09:49:26.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.ajlani@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "aajlani@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "geraldine.fair@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Project Manager - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "aajlani@devoteam.com"
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJGkne-8sIaGfyILdmNhcmRfcGhvdG8qKDAzZDg5NWNjNDAyNGRhOTk5YTFhZWM0NDZkOWJmMWNmZmRhMTY5MjMwAcAlRvcL3xdUogXUoXfPoMu1hkHt",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/4eK9t8GxgKL0YCSnjlmG_Ca7z9E\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "nationality": "France",
+          "sectorAgencyID": "COE",
+          "rankID": "Lead consultant",
+          "hrbpPesonNumber": "205987",
+          "locationID": "Toulouse - Claude-Marie Perroud",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "71465",
+          "managerPersonNumber": "113705",
+          "jobID": "Project Manager - Lead consultant",
+          "externalIdentifierNumber": "119551",
+          "recruitmentOfficePersonNumber": "64061",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RSO4P - Technology Consulting - Régions - Agence Toulouse 04 COE - Production",
+          "pricingProfileID": "Project Manager",
+          "actualTerminationDate": "2019-12-03",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2019-12-13",
+          "username": "aajlani",
+          "creationDate": "2020-05-28",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "COE - P&A-SO_1851",
+          "DateOfBirth": "1964-09-22",
+          "startDate": "2019-12-02"
+        }
+      },
+      "recoveryEmail": "abdallah.ajlani@gmail.com",
+      "recoveryPhone": "+33603994611"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117583434540070805895",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/Pwlc1vpoZZficn77M7Vz5GX69AE\"",
+      "primaryEmail": "abdallah.elbezri@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "Elbezri",
+        "fullName": "Abdallah Elbezri"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-01-22T07:19:43.000Z",
+      "creationTime": "2019-02-25T10:14:04.000Z",
+      "agreedToTerms": true,
+      "suspended": true,
+      "suspensionReason": "ADMIN",
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.elbezri@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "aelbezri@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "mahmoud.algharaibeh@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Saudi Arabia",
+          "country": "Saudi Arabia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAUDI ARABIA",
+          "title": "Enterprise Architect - Senior Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        },
+        {
+          "languageCode": "en",
+          "preference": "preferred"
+        },
+        {
+          "languageCode": "ar-SA",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "aelbezri@devoteam.com"
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": false,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIfDhOLZkbqC9AEiC3ZjYXJkX3Bob3RvKihlMWZhODM5OGMwZGE3NzIzZjg5MDYxNTBlMWM2NGMzZGM4ODA1ZTg1MAG0FemLTX6C38gHjhdKwC7Em4c0cA",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/WWD-bI824o1AHZM8RP5XUKTitiI\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAUDI ARABIA",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "124365",
+          "locationID": "Riyadh",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "508073",
+          "managerPersonNumber": "106292",
+          "jobID": "Enterprise Architect - Senior Consultant",
+          "externalIdentifierNumber": "117417",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEA - Default Cost Center",
+          "pricingProfileID": "Enterprise Architect",
+          "actualTerminationDate": "2023-01-22",
+          "workingCountryID": "Saudi Arabia",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2019-10-07",
+          "username": "aelbezri",
+          "creationDate": "2021-08-03",
+          "entityOpID": "AE - DVT Middle East",
+          "departementID": "Strategy & Transformation - 06-SO_SA_ST9",
+          "DateOfBirth": "1986-03-19",
+          "startDate": "2020-07-26"
+        }
+      },
+      "recoveryEmail": "abdallahbizri@gmail.com",
+      "recoveryPhone": "+966545494527"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106164431246244401845",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/8xkd9ujxldrvp9PQpxVR0MUD4Rs\"",
+      "primaryEmail": "abdallah.ghrab@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "Mohammed Abedalghani Ghrab",
+        "fullName": "Abdallah Mohammed Abedalghani Ghrab"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-17T00:45:58.000Z",
+      "creationTime": "2022-02-03T12:01:26.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.ghrab@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abdallah.mohammed.abedalghani.ghrab@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "aishwarya.thevar@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Jordan",
+          "country": "Jordan",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM JORDAN",
+          "title": "Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+962798380033",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdallah.mohammed.abedalghani.ghrab@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCLWl3ZXtsZ3GVSILdmNhcmRfcGhvdG8qKGJiYTQwNjNiZWY5MzM1MmZjYTE5NGQ3NDUzNzdiNzFkMzlmOTUwMDgwAVJWybFO4Fh8P5Z1R4cCozCWG7ge",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/OA0aOTD88lisZjFRCyjPZe1dc6U\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM JORDAN",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "124365",
+          "locationID": "Amman",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "121957",
+          "jobID": "Consultant",
+          "externalIdentifierNumber": "203654",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEA - Default Cost Center",
+          "pricingProfileID": "Structure",
+          "actualTerminationDate": "2022-08-07",
+          "workingCountryID": "Jordan",
+          "Partner": "ServiceNow",
+          "username": "abmohamme",
+          "creationDate": "2022-02-03",
+          "entityOpID": "AE - DVT Middle East",
+          "departementID": "N Platform - 16-SO_2939",
+          "startDate": "2022-08-08"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107507357651921210769",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/iTa1fEpW4Pn-vjyDOXJ-kNADxrA\"",
+      "primaryEmail": "abdallah.hamza@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "HAMZA",
+        "fullName": "Abdallah HAMZA"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-21T09:15:29.000Z",
+      "creationTime": "2022-11-18T10:01:49.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.hamza@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Benny.Moonen@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Belgium",
+          "country": "Belgium",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM",
+          "title": "Senior Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+32472028938",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJGbzOSjwN-XaCILdmNhcmRfcGhvdG8qKDJhMTUwNTQ4NjYyYzk1NGI2ZTdlNDBhYTAwZDVjZmM2MDRhZjg2YmQwATz-GnzES0b_bY3Q4mW4tWftAicA",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/RD14c-zIW5s3Q0vUUfLMg0cn_2E\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "110662",
+          "locationID": "Zaventem - Belgicastraat",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "40099",
+          "jobID": "Senior Consultant",
+          "externalIdentifierNumber": "208244",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "BE - DVT - Default cost center",
+          "pricingProfileID": "Data Scientist",
+          "workingCountryID": "Belgium",
+          "Partner": "Partner agnostic",
+          "username": "ahamza",
+          "creationDate": "2022-11-18",
+          "entityOpID": "BE - DVT Belgium",
+          "departementID": "BE - DVT Belgium-SO_BE_DVT_1",
+          "startDate": "2022-11-28"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106232519633252312157",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/5nj6lGMgmRb61sd3-sUINVlSwtM\"",
+      "primaryEmail": "abdallah.ousaid@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "OUSAID",
+        "fullName": "Abdallah OUSAID"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "1970-01-01T00:00:00.000Z",
+      "creationTime": "2022-12-15T12:02:09.000Z",
+      "agreedToTerms": false,
+      "suspended": true,
+      "suspensionReason": "ADMIN",
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.ousaid@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abdallah.ousaid@nexdigital.fr"
+        }
+      ],
+      "relations": [
+        {
+          "value": "xavier.normand.ext@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM NEXDIGITAL",
+          "title": "Solution Architect",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdallah.ousaid@nexdigital.fr"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": false,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM NEXDIGITAL",
+          "rankID": "Lead consultant",
+          "hrbpPesonNumber": "201656",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "121571",
+          "jobID": "Solution Architect",
+          "externalIdentifierNumber": "209307",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "NX01P - Splatform - NexDigital 01 - Production",
+          "pricingProfileID": "Solution Architect",
+          "actualTerminationDate": "2023-02-15",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aousaid",
+          "creationDate": "2022-12-15",
+          "entityOpID": "FR - S Platform (Nexdigital)",
+          "departementID": "Consulting-SO_2073",
+          "startDate": "2023-02-15"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109936604697015397611",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/XXx8DTO7BrEs-c5xtVejlJpBeaE\"",
+      "primaryEmail": "abdallah.saidane@devoteam.com",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "SAIDANE",
+        "fullName": "Abdallah SAIDANE"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-22T14:50:01.000Z",
+      "creationTime": "2020-01-13T07:01:09.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.saidane@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abdallah.saidane1@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "guillaume.langlois@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "SysOps Engineer - Senior consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdallah.saidane1@devoteam.com"
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECOvZ0ri1qvryiQEiC3ZjYXJkX3Bob3RvKigxNmQ2YjUzNGI2OTJkNzczYWNlOWMyZDEzMDljMGU2YmZiYjcxOGQ1MAG4o3lOGsYGP4mGb1LoZ-NAZpJuYQ",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/EhlS55aCa0vwSyFEZM0KgbtLPP0\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "119084",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "73045",
+          "managerPersonNumber": "206177",
+          "jobID": "SysOps Engineer - Senior consultant",
+          "externalIdentifierNumber": "121168",
+          "recruitmentOfficePersonNumber": "57758",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "EN06P - Innovative Tech - Energie 06 - Agence EDF - Production",
+          "pricingProfileID": "SysOps Engineer",
+          "workingCountryID": "France",
+          "Partner": "Local partner",
+          "lastUpdateDate": "2020-01-13",
+          "username": "absaidane",
+          "creationDate": "2020-05-28",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "SysOps-SO_1706",
+          "DateOfBirth": "1986-07-22",
+          "startDate": "2020-01-13"
+        }
+      },
+      "recoveryPhone": "+33660022912"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117192678996022205947",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/3Ce8q3wy-Q5zEqjgWGhaypq5rCw\"",
+      "primaryEmail": "abdallah.siffer@alfun.fr",
+      "name": {
+        "givenName": "Abdallah",
+        "familyName": "SIFFER",
+        "fullName": "Abdallah SIFFER"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-06-07T08:29:17.000Z",
+      "creationTime": "2022-03-08T10:23:47.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdallah.siffer@alfun.fr",
+          "primary": true
+        },
+        {
+          "address": "abdallah.siffer@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "ludovic.benimelis@alfun.fr",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ALFUN",
+          "title": "Cloud Engineer - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33651422494",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdallah.siffer@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service/Alfun",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "ALFUN",
+          "rankID": "Lead consultant",
+          "hrbpPesonNumber": "209133",
+          "locationID": "Paris - Rue de Rome",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "204140",
+          "jobID": "Cloud Engineer - Lead consultant",
+          "externalIdentifierNumber": "204213",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "Alfun - CC",
+          "pricingProfileID": "Cloud Engineer",
+          "workingCountryID": "France",
+          "Partner": "Microsoft",
+          "username": "asiffer",
+          "creationDate": "2022-02-18",
+          "entityOpID": "FR - ALFUN",
+          "departementID": "Practice Apps & Infrastructure-SO_FR_ALF_9",
+          "startDate": "2020-02-24"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "108115428705087921686",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/TKku83fjgynxoLsVdmudRZJeB4M\"",
+      "primaryEmail": "abdel-nour.chati@devoteam.com",
+      "name": {
+        "givenName": "Abdel-Nour",
+        "familyName": "CHATI",
+        "fullName": "Abdel-Nour CHATI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-01-10T10:06:31.000Z",
+      "creationTime": "2018-07-26T08:51:58.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdel-nour.chati@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "lucas.nyssen@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "FI-MAKERS",
+          "title": "Project Management Officer - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33763477620",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service/1-Darktrace POC",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "FI-MAKERS",
+          "nationality": "France",
+          "rankID": "Lead consultant",
+          "hrbpPesonNumber": "123681",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "66804",
+          "managerPersonNumber": "113505",
+          "jobID": "Project Management Officer - Lead consultant",
+          "externalIdentifierNumber": "113490",
+          "recruitmentOfficePersonNumber": "59273",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "FMBUA - Fi Makers - Finance - Business Analyste",
+          "pricingProfileID": "Project Management Officer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2019-04-30",
+          "username": "achati",
+          "creationDate": "2020-12-08",
+          "entityOpID": "FR - Creative Tech (Finance)",
+          "departementID": "Production - 04-SO_1091",
+          "DateOfBirth": "1988-11-08",
+          "startDate": "2018-08-07"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111929402535040645080",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/zEzcyVA9xsXxoXZtW1_hKj0rm2o\"",
+      "primaryEmail": "abdel.didaoui@devoteam.com",
+      "name": {
+        "givenName": "Abdel",
+        "familyName": "DIDAOUI",
+        "fullName": "Abdel DIDAOUI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-21T09:48:33.000Z",
+      "creationTime": "2022-09-01T10:04:06.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdel.didaoui@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Steve.Marques@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Consultant GRC Cyber Sécurité H/F - Innovative Tech",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "205987",
+          "locationID": "Toulouse - Claude-Marie Perroud",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "5454",
+          "jobID": "Consultant GRC Cyber Sécurité H/F - Innovative Tech",
+          "externalIdentifierNumber": "207082",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RSO8P - Technology Consulting - Régions - Agence Toulouse 08 COE SNOW - Production",
+          "pricingProfileID": "Risk & Compliance Engineer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "adidaoui",
+          "creationDate": "2022-09-01",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "COE - SNow 01-SO_FR_DTC_COE_11",
+          "startDate": "2022-09-05"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117722739009129248854",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/yzgkBiFn1JY01nFjI-kQHBFajz0\"",
+      "primaryEmail": "abdel.oulous@alfun.fr",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "OULOUS",
+        "fullName": "Abdelaziz OULOUS"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2022-03-25T07:35:51.000Z",
+      "creationTime": "2022-02-28T14:27:03.000Z",
+      "agreedToTerms": true,
+      "suspended": true,
+      "suspensionReason": "ADMIN",
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdel.oulous@alfun.fr",
+          "primary": true
+        },
+        {
+          "address": "abdel.oulous@devoteam.com"
+        },
+        {
+          "address": "abdelaziz.oulous@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "loic.morio@alfun.fr",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ALFUN",
+          "title": "Project Manager - Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33610587481",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdel.oulous@devoteam.com",
+        "abdelaziz.oulous@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service/Alfun",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": false,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "ALFUN",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "209133",
+          "locationID": "Paris - Rue de Rome",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "204297",
+          "jobID": "Project Manager - Consultant",
+          "externalIdentifierNumber": "204196",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "Alfun - CC",
+          "pricingProfileID": "Project Manager",
+          "actualTerminationDate": "2023-01-30",
+          "workingCountryID": "France",
+          "Partner": "Microsoft",
+          "username": "aoulous",
+          "creationDate": "2022-02-18",
+          "entityOpID": "FR - ALFUN",
+          "departementID": "Pôle Performance-SO_FR_ALF_4",
+          "startDate": "2021-10-11"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104060430611987972355",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/6UYyDqyzSGZhPxPWun9-kUJu4kE\"",
+      "primaryEmail": "abdeladel.majdeb@devoteam.com",
+      "name": {
+        "givenName": "Abdeladel",
+        "familyName": "MAJDEB",
+        "fullName": "Abdeladel MAJDEB"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-17T17:29:11.000Z",
+      "creationTime": "2020-10-30T07:00:54.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdeladel.majdeb@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Maxence.Mamy@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM M APPLICATIONS",
+          "title": "Developer - Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM M APPLICATIONS",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "112266",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "80623",
+          "managerPersonNumber": "116384",
+          "jobID": "Developer - Consultant",
+          "externalIdentifierNumber": "123468",
+          "recruitmentOfficePersonNumber": "71364",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "DMARM - DMA - Tech - RDM",
+          "pricingProfileID": "Developer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2020-10-29",
+          "username": "amajdeb",
+          "creationDate": "2020-12-17",
+          "entityOpID": "FR - Creative Tech (Expertise Tech)",
+          "departementID": "FR-DMA-RH-01-SO_1065",
+          "DateOfBirth": "1993-01-18",
+          "startDate": "2020-11-02"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "118225619515632219536",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/aKYDodlTwK1je2f0lLmiuKFqgps\"",
+      "primaryEmail": "abdelalim.tribak@devoteam.com",
+      "name": {
+        "givenName": "Abdelalim",
+        "familyName": "TRIBAK",
+        "fullName": "Abdelalim TRIBAK"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-16T10:55:16.000Z",
+      "creationTime": "2019-12-23T15:01:03.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelalim.tribak@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "roger.tonguino@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM CUSTOMER EFFECTIVNESS",
+          "title": "Most Valuable Solution Architect - Senior consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33660567048",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "fr",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECJDrvYWtjJr3_AEiC3ZjYXJkX3Bob3RvKig0ZDBiMmE2ZTNmZTkyNGM1YzVjNzVmMDg1MGMzMDRmZDQxYTBkOGI2MAHGU5ApRPYXk_UuLPQ_kRsQ1X9aNg",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/-CziRAMtsDcHwa8MeWNekmXrqn8\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM CUSTOMER EFFECTIVNESS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "201656",
+          "locationID": "Lyon - General Mouton Duvernet",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "72844",
+          "managerPersonNumber": "114202",
+          "jobID": "Most Valuable Solution Architect - Senior consultant",
+          "externalIdentifierNumber": "120979",
+          "recruitmentOfficePersonNumber": "65676",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "CR02P - SPlatform - Régions - Lyon Production",
+          "pricingProfileID": "Most Valuable Solution Architect",
+          "workingCountryID": "France",
+          "Partner": "Salesforce",
+          "lastUpdateDate": "2019-12-23",
+          "username": "atribak",
+          "creationDate": "2020-12-08",
+          "entityOpID": "FR - S Platform (DCE)",
+          "departementID": "Marketing & Integration-SO_1154",
+          "DateOfBirth": "1993-05-03",
+          "startDate": "2020-01-06"
+        }
+      },
+      "recoveryEmail": "abdelalim.tribak@gmail.com",
+      "recoveryPhone": "+33668179010"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "114579580847285840246",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/1hVv652O3Dn24X8SNO7fw4Z4uFY\"",
+      "primaryEmail": "abdelaziz.amal@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "Amal",
+        "fullName": "Abdelaziz Amal"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-01-30T14:18:22.000Z",
+      "creationTime": "2022-02-10T19:00:50.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.amal@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "mounir.belmahi@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Morocco",
+          "country": "Morocco",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SARL",
+          "title": "Subcontractor",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SARL",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "20524",
+          "locationID": "Rabat - Yasmine Centre",
+          "personNumber": "515620",
+          "managerPersonNumber": "20430",
+          "jobID": "Subcontractor",
+          "externalIdentifierNumber": "128981",
+          "personTypeID": "C",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MA - Default Cost Center",
+          "pricingProfileID": "Subcontractor",
+          "actualTerminationDate": "2023-06-30",
+          "workingCountryID": "Morocco",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2022-03-09",
+          "username": "aamal",
+          "creationDate": "2022-12-16",
+          "entityOpID": "MA - DVT Morocco",
+          "departementID": "Direction-SO_MA_DVT_1",
+          "startDate": "2022-01-02"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104470688518980585713",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/mYjn0-WTKmzXuHl8vo4MZOwh7Cs\"",
+      "primaryEmail": "abdelaziz.aoues@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "AOUES",
+        "fullName": "Abdelaziz AOUES"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-06T16:16:52.000Z",
+      "creationTime": "2019-10-28T05:01:00.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.aoues@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "pierre.fort@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Devops Engineer - Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "sectorAgencyID": "Région Sud-Ouest Agence",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "204917",
+          "locationID": "Toulouse - Claude-Marie Perroud",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "71056",
+          "managerPersonNumber": "7316",
+          "jobID": "Devops Engineer - Consultant",
+          "externalIdentifierNumber": "119117",
+          "recruitmentOfficePersonNumber": "56787",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RSO6P - Innovative Tech - Régions - Agence Toulouse 06 - Production",
+          "pricingProfileID": "DevOps Engineer",
+          "workingCountryID": "France",
+          "Partner": "Local partner",
+          "lastUpdateDate": "2019-11-12",
+          "username": "aaoues",
+          "creationDate": "2020-05-28",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "Hybridation Toulouse - 01-SO_2157",
+          "DateOfBirth": "1993-11-22",
+          "startDate": "2020-01-06"
+        }
+      },
+      "recoveryEmail": "aziz.aoues@gmail.com",
+      "recoveryPhone": "+33659355865"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105496757258969958921",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/jep2jR2GCGsgMwTIr-89owvfSKM\"",
+      "primaryEmail": "abdelaziz.bensaber@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "BENSABER",
+        "fullName": "Abdelaziz BENSABER"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "1970-01-01T00:00:00.000Z",
+      "creationTime": "2023-02-21T18:01:59.000Z",
+      "agreedToTerms": false,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.bensaber@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abdelaziz.bensaber@top-team.fr"
+        }
+      ],
+      "relations": [
+        {
+          "value": "Julien.El.Faiz@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "TECHNOLOGIES & OPERATIONS",
+          "title": "Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdelaziz.bensaber@top-team.fr"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": false,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "TECHNOLOGIES & OPERATIONS",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "121391",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "111365",
+          "jobID": "Consultant",
+          "externalIdentifierNumber": "210138",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "TO04P - Innovative Tech - TOP - Production TO04P",
+          "pricingProfileID": "No E4V",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "abensaber",
+          "creationDate": "2023-02-21",
+          "entityOpID": "FR - Innovative Tech (Top Team)",
+          "departementID": "Autres Secteurs-SO_1139",
+          "startDate": "2023-02-27"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117066925276317377064",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/-918IHlxI2bPH4F2zs3JviHuLl8\"",
+      "primaryEmail": "abdelaziz.chakhari@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "CHAKHARI",
+        "fullName": "Abdelaziz CHAKHARI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-20T18:22:27.000Z",
+      "creationTime": "2023-01-16T18:00:47.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.chakhari@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "philippe.breslavtzev@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "FI-MAKERS",
+          "title": "Creative Tech - FIMAKERS - Développeur JAVA H/F",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "FI-MAKERS",
+          "rankID": "Principal",
+          "hrbpPesonNumber": "123681",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "119526",
+          "jobID": "Creative Tech - FIMAKERS - Développeur JAVA H/F",
+          "externalIdentifierNumber": "209732",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "FM01P - Creative tech - FI- Makers - Production",
+          "pricingProfileID": "Most Valuable Developer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "achakhari",
+          "creationDate": "2023-01-16",
+          "entityOpID": "FR - Creative Tech (Finance)",
+          "departementID": "Production - 01-SO_1086",
+          "startDate": "2023-01-23"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100295157800411369883",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/_-o9qscO8clufjpjPpw2YqaP5kw\"",
+      "primaryEmail": "abdelaziz.el.borgi@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "EL BORGI",
+        "fullName": "Abdelaziz EL BORGI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-20T13:46:59.000Z",
+      "creationTime": "2021-01-27T16:06:07.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.el.borgi@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Franck.Vial@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Solution Engineer - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33761938517",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "201275",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "7544",
+          "jobID": "Solution Engineer - Lead consultant",
+          "externalIdentifierNumber": "200862",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "DCT8P - CyberTrust - Net Sec - Production",
+          "pricingProfileID": "Solution Engineer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aelborgi",
+          "creationDate": "2021-01-27",
+          "entityOpID": "FR - Cyber Trust",
+          "departementID": "NetSec - Consultant 01-SO_1072",
+          "startDate": "2021-04-01"
+        }
+      },
+      "recoveryEmail": "abdelaziz.elborgi@gmail.com",
+      "recoveryPhone": "+33668749804"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112718215916588836577",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/TJMib-NQuecfC2ayEBXPUJIbGLY\"",
+      "primaryEmail": "abdelaziz.ouaaddi@devoteam.com",
+      "name": {
+        "givenName": "Abdelaziz",
+        "familyName": "OUAADDI",
+        "fullName": "Abdelaziz OUAADDI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "1970-01-01T00:00:00.000Z",
+      "creationTime": "2022-12-13T16:01:28.000Z",
+      "agreedToTerms": false,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelaziz.ouaaddi@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abdelaziz.ouaaddi@axance.fr"
+        }
+      ],
+      "relations": [
+        {
+          "value": "flavien.tanzilli@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Creative Technology France",
+          "title": "Creative Tech - LYON - Product Owner H/F",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abdelaziz.ouaaddi@axance.fr"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "Devoteam Creative Technology France",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "112266",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "111940",
+          "jobID": "Creative Tech - LYON - Product Owner H/F",
+          "externalIdentifierNumber": "209136",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "AXALP - Creative Tech - Régions - Lyon - Production",
+          "pricingProfileID": "Technical Product Owner",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aouaaddi",
+          "creationDate": "2022-12-13",
+          "entityOpID": "FR - Creative Tech (PM & Design)",
+          "departementID": "Lyon-SO_1012",
+          "startDate": "2023-02-20"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112561982072750236309",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/lPPgMLZPk07zABfMt-i0BSJttRc\"",
+      "primaryEmail": "abdelbasset.laouti@devoteam.com",
+      "name": {
+        "givenName": "Abdelbasset",
+        "familyName": "LAOUTI",
+        "fullName": "Abdelbasset LAOUTI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-17T08:42:02.000Z",
+      "creationTime": "2018-05-09T14:06:54.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelbasset.laouti@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "Yousra.Arifi@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Morocco",
+          "country": "Morocco",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SARL",
+          "title": "Operations Analyst - Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SARL",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "20524",
+          "locationID": "Rabat - Yasmine Centre",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "503587",
+          "managerPersonNumber": "20314",
+          "jobID": "Operations Analyst - Consultant",
+          "externalIdentifierNumber": "104944",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MA - Default Cost Center",
+          "pricingProfileID": "Operations Analyst",
+          "workingCountryID": "Morocco",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2022-03-09",
+          "username": "alaouti",
+          "creationDate": "2022-12-12",
+          "entityOpID": "MA - DVT Morocco",
+          "departementID": "Sale/ Expertise-SO_MA_DVT_2",
+          "DateOfBirth": "1982-01-24",
+          "startDate": "2012-02-03"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103116006124811647759",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/ld-Yj88LZGFvamPcCt9IwMeuIws\"",
+      "primaryEmail": "abdelfatsah.dahmana@devoteam.com",
+      "name": {
+        "givenName": "Abdelfatsah",
+        "familyName": "DAHMANA",
+        "fullName": "Abdelfatsah DAHMANA"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "1970-01-01T00:00:00.000Z",
+      "creationTime": "2023-01-03T12:13:38.000Z",
+      "agreedToTerms": false,
+      "suspended": true,
+      "suspensionReason": "ADMIN",
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelfatsah.dahmana@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "laurent.schoonheere@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Network &amp; Security Solutions Architect ED",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": false,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Expert / Director",
+          "hrbpPesonNumber": "204918",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "201424",
+          "jobID": "Network &amp; Security Solutions Architect ED",
+          "externalIdentifierNumber": "209574",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "SEC1P - Trust & Cybersecurity - Production",
+          "pricingProfileID": "Network & Security Solutions Architect",
+          "workingCountryID": "France",
+          "Partner": "Local partner",
+          "username": "adahmana",
+          "creationDate": "2022-12-31",
+          "entityOpID": "FR - Cyber Trust (Risk & Security)",
+          "departementID": "Risk & Security Consultants-37-SO_2055",
+          "startDate": "2023-01-16"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107609009953605188486",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/gWqzKG8vZdlHvQWWZeqpYiNkO74\"",
+      "primaryEmail": "abdelfattah.raji@devoteam.com",
+      "name": {
+        "givenName": "Abdelfattah",
+        "familyName": "Raji",
+        "fullName": "Abdelfattah Raji"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-16T01:57:11.000Z",
+      "creationTime": "2021-03-29T11:00:20.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelfattah.raji@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "mounir.belmahi@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Morocco",
+          "country": "Morocco",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SARL",
+          "title": "Subcontractor",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SARL",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "20524",
+          "locationID": "Rabat - Yasmine Centre",
+          "personNumber": "513318",
+          "managerPersonNumber": "20430",
+          "jobID": "Subcontractor",
+          "externalIdentifierNumber": "125085",
+          "personTypeID": "C",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MA - Default Cost Center",
+          "pricingProfileID": "Subcontractor",
+          "actualTerminationDate": "2023-06-30",
+          "workingCountryID": "Morocco",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2022-03-09",
+          "username": "araji",
+          "creationDate": "2022-12-16",
+          "entityOpID": "MA - DVT Morocco",
+          "departementID": "Direction-SO_MA_DVT_1",
+          "startDate": "2021-03-22"
+        }
+      },
+      "recoveryEmail": "kamilia.selmani1@gmail.com"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105953423202914512753",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/3gF-u1ak-yjmEPiNncJ7za52-Mo\"",
+      "primaryEmail": "abdelghani.brigui@devoteam.com",
+      "name": {
+        "givenName": "Abdelghani",
+        "familyName": "Brigui",
+        "fullName": "Abdelghani Brigui"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-16T10:38:51.000Z",
+      "creationTime": "2020-12-02T15:12:07.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelghani.brigui@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "William.Leblond@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Collaborative Solutions Analyst - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+33767340350",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Lead consultant",
+          "hrbpPesonNumber": "122083",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "103151",
+          "jobID": "Collaborative Solutions Analyst - Lead consultant",
+          "externalIdentifierNumber": "200220",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEN1P - Technology Consulting - Mcloud - Production",
+          "pricingProfileID": "Collaborative Solutions Analyst",
+          "workingCountryID": "France",
+          "Partner": "Microsoft",
+          "username": "abrigui",
+          "creationDate": "2020-11-03",
+          "entityOpID": "FR - M Cloud",
+          "departementID": "MW Collab - 02-SO_1789",
+          "startDate": "2020-12-07"
+        }
+      },
+      "recoveryEmail": "abdelghani.brigui@gmail.com",
+      "recoveryPhone": "+33767340350"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113423691415421121958",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/56FPIb27MOIFz90awZ6PHVtSens\"",
+      "primaryEmail": "abdelghani.zerrouki@devoteam.com",
+      "name": {
+        "givenName": "Abdelghani",
+        "familyName": "ZERROUKI",
+        "fullName": "Abdelghani ZERROUKI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-17T14:47:34.000Z",
+      "creationTime": "2022-10-13T18:02:06.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelghani.zerrouki@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "youssef.el.jaoussi@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Cloud Data Engineer H/F",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Consultant",
+          "hrbpPesonNumber": "202362",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "120411",
+          "jobID": "Cloud Data Engineer H/F",
+          "externalIdentifierNumber": "207864",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "DATP - Data Foundation",
+          "pricingProfileID": "Data Engineer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "abzerrouk",
+          "creationDate": "2022-10-13",
+          "entityOpID": "FR - Data Driven",
+          "departementID": "Data Processing Pipeline & Automation  - 05-SO_FR_DTC_DATA_07",
+          "startDate": "2022-10-17"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113008932966376143024",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/D_TDXO8lKboNYbT2m4_8PiBf2rA\"",
+      "primaryEmail": "abdelhadi.el.yadri@devoteam.com",
+      "name": {
+        "givenName": "Abdelhadi",
+        "familyName": "EL YADRI",
+        "fullName": "Abdelhadi EL YADRI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-08T09:54:29.000Z",
+      "creationTime": "2021-09-06T08:09:17.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhadi.el.yadri@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "kim.do.tri@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Innovative Tech Enterprise Application",
+          "title": "Consultant SAP Cloud",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECLDx3_2888DEtAEiC3ZjYXJkX3Bob3RvKig4NGE3YTY0Yzg0NWJlZmEyMzA0NzUzMmY5ODY3YzQyOGQzNmEyNzg1MAHAgak0KfopjNBlHN4LtazIdnyujA",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/-R6YcOkVF-iwNMKHowuYmZM_9lU\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "Devoteam Innovative Tech Enterprise Application",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "205268",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "201965",
+          "jobID": "Consultant SAP Cloud",
+          "externalIdentifierNumber": "202009",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "DEA1P - O.U SAP HANA - Production",
+          "pricingProfileID": "No E4V",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aelyadri",
+          "creationDate": "2021-09-06",
+          "entityOpID": "FR - Innovative Tech (SAP)",
+          "departementID": "Innovation & Platform-SO_1880",
+          "startDate": "2021-10-11"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112400339525296328984",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/UhuOjWyFe97kkz5Nt-V4BoCaLlQ\"",
+      "primaryEmail": "abdelhafid.bougrine@devoteam.com",
+      "name": {
+        "givenName": "Abdelhafid",
+        "familyName": "BOUGRINE",
+        "fullName": "Abdelhafid BOUGRINE"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-01-30T07:36:54.000Z",
+      "creationTime": "2016-10-06T10:34:27.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhafid.bougrine@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "abougrine@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "Christophe.Monget@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Cloud & Devops Architect - Principal",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "abougrine@devoteam.com"
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "nationality": "France",
+          "rankID": "Principal",
+          "hrbpPesonNumber": "209625",
+          "locationID": "Lyon - General Mouton Duvernet",
+          "employeeTypeLabel": "Permanent contract",
+          "personNumber": "57558",
+          "managerPersonNumber": "112632",
+          "jobID": "Cloud & Devops Architect - Principal",
+          "externalIdentifierNumber": "110363",
+          "recruitmentOfficePersonNumber": "45944",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RSE2P - Innovative Tech - Régions - Agence Lyon 02 - Production",
+          "pricingProfileID": "Cloud & DevOps Architect",
+          "workingCountryID": "France",
+          "Partner": "Local partner",
+          "lastUpdateDate": "2019-10-18",
+          "username": "abougrine",
+          "creationDate": "2020-05-28",
+          "entityOpID": "FR - Innovative Tech (DTC)",
+          "departementID": "Hybridation Lyon - 01-SO_2641",
+          "DateOfBirth": "1971-12-17",
+          "startDate": "2017-01-09"
+        }
+      },
+      "recoveryEmail": "hafidbougrine@gmail.com",
+      "recoveryPhone": "+33624716430"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106310867821073339060",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/NH_rZZrZ_l4b3Mqca0oXHS8OSAA\"",
+      "primaryEmail": "abdelhakim.elmajdouli@devoteam.com",
+      "name": {
+        "givenName": "Abdelhakim",
+        "familyName": "Elmajdouli",
+        "fullName": "Abdelhakim Elmajdouli"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-21T22:51:49.000Z",
+      "creationTime": "2022-02-23T20:01:38.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhakim.elmajdouli@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "marjorie.moison@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Solution Engineer - Lead consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "201275",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "122492",
+          "jobID": "Solution Engineer - Lead consultant",
+          "externalIdentifierNumber": "204301",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "DCT8P - CyberTrust - Net Sec - Production",
+          "pricingProfileID": "Solution Engineer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "aelmajdou",
+          "creationDate": "2022-02-23",
+          "entityOpID": "FR - Cyber Trust",
+          "departementID": "NetSec - Consultant 06-SO_1077",
+          "startDate": "2022-06-20"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "102363840692585694235",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/uPVsY96DYHb74ilkMp4clK_fkws\"",
+      "primaryEmail": "abdelhakim.salama@devoteam.com",
+      "name": {
+        "givenName": "Abdelhakim",
+        "familyName": "SALAMA",
+        "fullName": "Abdelhakim SALAMA"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-21T08:19:20.000Z",
+      "creationTime": "2022-12-06T12:05:09.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhakim.salama@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "khalil.boutada@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "France",
+          "country": "France",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAS",
+          "title": "Senior Consultant Hyperautomation",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJuIvJnfkoPnICILdmNhcmRfcGhvdG8qKDk4Yzg5YzJjYWI0ZDJiMjE0NjA3Yjg2NzExY2Y1ZDc4ODE4ZTE3NDcwAYqLZ8PQ_fKGZhKmxZQFct7blabN",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/IJUB0ZyW_r0KkVXN6f9BIm6lKoY\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAS",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "207572",
+          "locationID": "Levallois-Perret - Anatole 73",
+          "employeeTypeLabel": "Permanent contract",
+          "managerPersonNumber": "207830",
+          "jobID": "Senior Consultant Hyperautomation",
+          "externalIdentifierNumber": "208442",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "RPA-P - RPA Production",
+          "pricingProfileID": "Solution Engineer",
+          "workingCountryID": "France",
+          "Partner": "Partner agnostic",
+          "username": "asalama",
+          "creationDate": "2022-12-06",
+          "entityOpID": "FR - Innovative Tech (Hyperbots)",
+          "departementID": "Production 03-SO_3189",
+          "startDate": "2023-01-16"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103031179479211697487",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/XplKA93o4FlOWzmhx6aIZGMD4GA\"",
+      "primaryEmail": "abdelhamid.benjbara@devoteam.com",
+      "name": {
+        "givenName": "Abdelhamid",
+        "familyName": "Benjbara",
+        "fullName": "Abdelhamid Benjbara"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-19T12:13:49.000Z",
+      "creationTime": "2022-05-24T07:10:59.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhamid.benjbara@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "zied.benyoussef@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Tunisia",
+          "country": "Tunisia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Devoteam Tunisia",
+          "title": "consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": " ",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCM_K9-bStbqIKiILdmNhcmRfcGhvdG8qKDM3NDZhMGRiYzkzYzkxYzM1ZjY2NzQ4MTgzOGNkZmY2YTA1YTE2YzgwAchO8k5D6kzE_eYwh3iuyreiEoqA",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/ugthoSbjviy7ECNGH01rqreiFc4\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "Devoteam Tunisia",
+          "sectorAgencyID": "Detached Consultant",
+          "locationID": "Tunis",
+          "personNumber": "516297",
+          "managerPersonNumber": "511968",
+          "jobID": "consultant",
+          "externalIdentifierNumber": "130190",
+          "personTypeID": "E",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "workingCountryID": "Tunisia",
+          "lastUpdateDate": "2022-06-14",
+          "username": "abenjbara",
+          "creationDate": "2022-05-20",
+          "entityOpID": "TN - DVT Tunisia",
+          "departementID": "Operations",
+          "startDate": "2022-05-25"
+        }
+      }
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103907374786451618975",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/Dq0P2ZUrSGEkAaBCCKknNtJA_2A\"",
+      "primaryEmail": "abdelhamid.hassan@devoteam.com",
+      "name": {
+        "givenName": "Abdelhamid",
+        "familyName": "HASSAN",
+        "fullName": "Abdelhamid HASSAN"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-15T06:05:11.000Z",
+      "creationTime": "2022-12-14T14:01:35.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhamid.hassan@devoteam.com",
+          "primary": true
+        },
+        {
+          "address": "Abdelhamid.mohamed@devoteam.com"
+        },
+        {
+          "address": "abdelhamid.mohamed.abdelhamid.hassan@devoteam.com"
+        }
+      ],
+      "relations": [
+        {
+          "value": "bmoussa@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Saudi Arabia",
+          "country": "Saudi Arabia",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SAUDI ARABIA",
+          "title": "Infra Engineer - Senior Consultant",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+966504714187",
+          "type": "mobile"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "aliases": [
+        "Abdelhamid.mohamed@devoteam.com",
+        "abdelhamid.mohamed.abdelhamid.hassan@devoteam.com"
+      ],
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJ_5kLaolfKcNiILdmNhcmRfcGhvdG8qKDk5Mzc2NDExNzFmZTQxZjQ0NGFiMDA0Nzc5ZjJmMzY2MDIyN2MzM2YwATz6gq06jz6IAirsQa6iL0Ob2HR1",
+      "thumbnailPhotoEtag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/hjpMjHAQ2xaYCqTd6ReXfkys6ns\"",
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SAUDI ARABIA",
+          "rankID": "Senior consultant",
+          "hrbpPesonNumber": "124365",
+          "locationID": "Riyadh",
+          "employeeTypeLabel": "Fixed-term contract (Fixed Term)",
+          "managerPersonNumber": "100044",
+          "jobID": "Infra Engineer - Senior Consultant",
+          "externalIdentifierNumber": "209297",
+          "personTypeID": "E",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MEA - Default Cost Center",
+          "pricingProfileID": "Infra Engineer",
+          "actualTerminationDate": "2023-12-10",
+          "workingCountryID": "Saudi Arabia",
+          "Partner": "Partner agnostic",
+          "username": "amohameda",
+          "creationDate": "2022-12-14",
+          "entityOpID": "AE - DVT Middle East",
+          "departementID": "Strategy & Transformation-SO_SA_ST1",
+          "startDate": "2022-12-18"
+        }
+      },
+      "recoveryEmail": "abdelhamed@me.com"
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103423185490629169824",
+      "etag": "\"g0ZI99P-wiJZvVD25oJ8D3NuWof53S8EFWSgI9V1II0/FD2etDG6ZgK1n7JRs0R2HmQQqGs\"",
+      "primaryEmail": "abdelhanine.abassi@devoteam.com",
+      "name": {
+        "givenName": "Abdelhanine",
+        "familyName": "ABASSI",
+        "fullName": "Abdelhanine ABASSI"
+      },
+      "isAdmin": false,
+      "isDelegatedAdmin": false,
+      "lastLoginTime": "2023-02-15T13:52:45.000Z",
+      "creationTime": "2021-10-13T11:01:19.000Z",
+      "agreedToTerms": true,
+      "suspended": false,
+      "archived": false,
+      "changePasswordAtNextLogin": false,
+      "ipWhitelisted": false,
+      "emails": [
+        {
+          "address": "abdelhanine.abassi@devoteam.com",
+          "primary": true
+        }
+      ],
+      "relations": [
+        {
+          "value": "mounir.belmahi@devoteam.com",
+          "type": "manager"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "Morocco",
+          "country": "Morocco",
+          "primary": true
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DEVOTEAM SARL",
+          "title": "Subcontractor",
+          "primary": true,
+          "customType": "work"
+        }
+      ],
+      "languages": [
+        {
+          "languageCode": "en-GB",
+          "preference": "preferred"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "customerId": "C03nvy61k",
+      "orgUnitPath": "/Regular_Service",
+      "isMailboxSetup": true,
+      "isEnrolledIn2Sv": true,
+      "isEnforcedIn2Sv": true,
+      "includeInGlobalAddressList": true,
+      "customSchemas": {
+        "HR_PROFILE": {
+          "entityLegalID": "DEVOTEAM SARL",
+          "rankID": "NO E4V / Structure",
+          "hrbpPesonNumber": "20524",
+          "locationID": "Rabat - Yasmine Centre",
+          "personNumber": "514989",
+          "managerPersonNumber": "20430",
+          "jobID": "Subcontractor",
+          "externalIdentifierNumber": "127734",
+          "personTypeID": "C",
+          "assignmentStatusTypeID": "1",
+          "TechBusinessLeader": "No",
+          "accountingKey_BU": "MA - Default Cost Center",
+          "pricingProfileID": "Subcontractor",
+          "actualTerminationDate": "2023-06-30",
+          "workingCountryID": "Morocco",
+          "Partner": "Partner agnostic",
+          "lastUpdateDate": "2022-03-09",
+          "username": "aabassi",
+          "creationDate": "2022-12-14",
+          "entityOpID": "MA - DVT Morocco",
+          "departementID": "Direction-SO_MA_DVT_1",
+          "startDate": "2021-10-01"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "ZXNfdGtuX3N0CuEBEgwI9uncnwYQkISpugIagQEKXShBTkQgKEhBU19SRUxBVElPTiAxIChJUyAyICIyODI1MzkxMiIpKSAoRVEgRU5USVRZX1RZUEUgOCkgKE5PVCAoSEFTIDU1OjEpKSAoRVEgMTAwMTg6OCAwLjApKToPCgkQFxoFMTAwMTgQARgBOg8KCRABGgUxMDAxOBABGAEqTTAsODE2OTE5MDkwLCJhYmRlbGhhbmluZS5hYmFzc2lAZGV2b3RlYW0uY29tIiw0MjUwOTAwMjYyLDgsIk1qWTJNakV4TXpVeE1UTXkiZXNfdGtuX2VuZA=="
+}
